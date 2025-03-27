@@ -2,7 +2,7 @@
 
 ## Inleiding
 
-Voor de ontwikkeling van de webapplicatie heb ik gekozen voor Vue.js als het primaire framework. Vue.js heb ik gekozen omdat het een progressief JavaScript-framework is dat bekend staat om zijn flexibiliteit, eenvoudige integratie en ecosysteem. Hierbij licht ik mijn keuze toe en bespreek ik de voordelen van Vue.js met betrekking tot het ecosysteem, schaalbaarheid, onderhoud, performance en veiligheid van de applicatie.
+Voor de ontwikkeling van de webapplicatie heb ik gekozen voor Vue.js als het primaire framework. Vue.js heb ik gekozen omdat het een progressief JavaScript-framework is dat bekend staat om zijn flexibiliteit, eenvoudige integratie en ecosysteem. Daarnaast had ik ook kunnen kiezen voor Angular of React, maar aangezien ik een boek heb gekregen die mij begeleid bij het gebruiken van Vue.js zal ik Vue.js gebruiken,  Hierbij licht ik mijn keuze toe en bespreek ik de voordelen van Vue.js met betrekking tot het ecosysteem, schaalbaarheid, onderhoud, performance en veiligheid van de applicatie.
 
 ## Ecosysteem van Vue.js
 
@@ -29,6 +29,6 @@ Veiligheid is een cruciaal aspect bij webapplicaties. Vue.js biedt ingebouwde be
 
 Vue.js is een uitstekende keuze voor deze webapplicatie vanwege zijn sterke ecosysteem, schaalbaarheid, onderhoudbaarheid, performance en veiligheid. Alternatieve frameworks zoals React en Angular bieden eveneens voordelen, maar Vue.js onderscheidt zich door zijn eenvoud en flexibiliteit. Voor een optimale gebruikerservaring kan Vue.js gecombineerd worden met een UI-framework zoals Vuetify of Tailwind CSS. Hiermee wordt een moderne, efficiënte en veilige webapplicatie gerealiseerd die eenvoudig uit te breiden en te onderhouden is.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTMyMDg5MDAsNDE3MzI2MjIsODM2MT
-U5MjQzXX0=
+eyJoaXN0b3J5IjpbMTgyMDM4ODU0MiwtMTg1MzIwODkwMCw0MT
+czMjYyMiw4MzYxNTkyNDNdfQ==
 -->
