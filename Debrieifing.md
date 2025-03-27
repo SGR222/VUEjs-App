@@ -28,8 +28,8 @@ Veiligheid is een cruciaal aspect bij webapplicaties in dit geval biedt Vue.js i
 
 ## Conclusie
 
-Vue.js vind ik een uitstekende keuze voor deze webapplicatie vanwege zijn sterke ecosysteem, schaalbaarheid, onderhoudbaarheid, performance en veiligheid. Alternatieve frameworks zoals React en Angular bieden eveneens voordelen, maar Vue.js onderscheidt zich door zijn eenvoud en flexibiliteit. Voor een optimale gebruikerservaring kan Vue.js gecombineerd worden met een UI-framework zoals Vuetify of Tailwind CSS. Hiermee wordt een moderne, efficiënte en veilige webapplicatie gerealiseerd die eenvoudig uit te breiden en te onderhouden is.
+Vue.js vind ik een uitstekende keuze voor deze webapplicatie vanwege zijn sterke ecosysteem, schaalbaarheid, onderhoudbaarheid, performance en veiligheid. Alternatieve frameworks zoals React en Angular bieden eveneens voordelen, maar Vue.js onderscheidt zich door zijn eenvoud en flexibiliteit, dat is toch wat ik belangrijk vind. Daarnaast kan Vue.js gecombineerd worden met een UI-framework zoals bijvoorbeeld Tailwind CSS, waarbij het makkelijker wordt om een moderne, efficiënte en veilige webapplicatie te maken die eenvoudig is op te schalen en onderhouden. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTIyMTA2NCwtODIwMTY3Mjg1LC0xOD
-UzMjA4OTAwLDQxNzMyNjIyLDgzNjE1OTI0M119
+eyJoaXN0b3J5IjpbLTE0MzQ3MDQwNjQsLTgyMDE2NzI4NSwtMT
+g1MzIwODkwMCw0MTczMjYyMiw4MzYxNTkyNDNdfQ==
 -->
