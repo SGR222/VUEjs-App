@@ -24,12 +24,12 @@ Vue.js staat bekend om zijn goede performance, mede dankzij zijn Virtual DOM imp
 
 ### Veiligheid van de Applicatie
 
-Veiligheid is een cruciaal aspect bij webapplicaties in dit geval biedt Vue.js ingebouwde bescherming tegen XSS-aanvallen door standaard HTML-escaping toe te passen. Daarnaast kunnen best practices zoals content security policies (CSP) en het beperken van inline scripts de veiligheid verder verhogen. Voor back-end validatie en authenticatie kan Vue goed gecombineerd worden met frameworks zoals Laravel of Express.js.
+Veiligheid is een cruciaal aspect bij webapplicaties in dit geval biedt Vue.js ingebouwde bescherming tegen XSS-aanvallen door standaard HTML-escaping toe te passen. Bij Vue.js is het ook zo dat best practices zoals content security policies (CSP) en het beperken van inline scripts de veiligheid verder verhogen. Voor back-end validatie en authenticatie kan Vue goed gecombineerd worden met frameworks zoals Laravel bij het werken met PHP of Express.js bij gebruik van JavaScript. 
 
 ## Conclusie
 
-Vue.js is een uitstekende keuze voor deze webapplicatie vanwege zijn sterke ecosysteem, schaalbaarheid, onderhoudbaarheid, performance en veiligheid. Alternatieve frameworks zoals React en Angular bieden eveneens voordelen, maar Vue.js onderscheidt zich door zijn eenvoud en flexibiliteit. Voor een optimale gebruikerservaring kan Vue.js gecombineerd worden met een UI-framework zoals Vuetify of Tailwind CSS. Hiermee wordt een moderne, efficiënte en veilige webapplicatie gerealiseerd die eenvoudig uit te breiden en te onderhouden is.
+Vue.js vind ik een uitstekende keuze voor deze webapplicatie vanwege zijn sterke ecosysteem, schaalbaarheid, onderhoudbaarheid, performance en veiligheid. Alternatieve frameworks zoals React en Angular bieden eveneens voordelen, maar Vue.js onderscheidt zich door zijn eenvoud en flexibiliteit. Voor een optimale gebruikerservaring kan Vue.js gecombineerd worden met een UI-framework zoals Vuetify of Tailwind CSS. Hiermee wordt een moderne, efficiënte en veilige webapplicatie gerealiseerd die eenvoudig uit te breiden en te onderhouden is.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDkwMTY4MywtODIwMTY3Mjg1LC0xOD
+eyJoaXN0b3J5IjpbMjA0MTIyMTA2NCwtODIwMTY3Mjg1LC0xOD
 UzMjA4OTAwLDQxNzMyNjIyLDgzNjE1OTI0M119
 -->
