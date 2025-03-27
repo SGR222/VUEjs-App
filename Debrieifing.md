@@ -6,7 +6,8 @@ Voor de ontwikkeling van de webapplicatie heb ik gekozen voor Vue.js als het pri
 
 ## Ecosysteem van Vue.js
 
-Vue.js biedt een breed en goed te onderhouden ecosysteem. Dit framework wordt ondersteund door een grote community en heeft uitgebreide documentatie, ondanks dat het niet wordt beheerd door grote bedrijven zoals wel het geval is bij Angular of React, die wor Daarnaast zijn er diverse officiële libraries zoals Vue Router voor navigatie en Pinia of Vuex voor state management. Dit maakt Vue.js geschikt voor zowel kleine als grootschalige projecten.
+Vue.js biedt een breed en goed te onderhouden ecosysteem. Dit framework wordt ondersteund door een grote community en heeft uitgebreide documentatie, ondanks dat het niet wordt beheerd door grote bedrijven zoals wel het geval is bij Angular of React, die worden beheerd door Google en Facebook. 
+Bij Vue.js zijn er ook veel diverse officiële libraries beschikbaar zoals Vue Router voor navigatie en Pinia of Vuex voor state management. Dit maakt Vue.js geschikt voor zowel kleine als grootschalige projecten, ondanks dat het Angular based is. 
 
 ### Schaalbaarheid van de Applicatie
 
@@ -28,5 +29,5 @@ Veiligheid is een cruciaal aspect bij webapplicaties. Vue.js biedt ingebouwde be
 
 Vue.js is een uitstekende keuze voor deze webapplicatie vanwege zijn sterke ecosysteem, schaalbaarheid, onderhoudbaarheid, performance en veiligheid. Alternatieve frameworks zoals React en Angular bieden eveneens voordelen, maar Vue.js onderscheidt zich door zijn eenvoud en flexibiliteit. Voor een optimale gebruikerservaring kan Vue.js gecombineerd worden met een UI-framework zoals Vuetify of Tailwind CSS. Hiermee wordt een moderne, efficiënte en veilige webapplicatie gerealiseerd die eenvoudig uit te breiden en te onderhouden is.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODEwOTIyOCw4MzYxNTkyNDNdfQ==
+eyJoaXN0b3J5IjpbLTIwMTM4MTA2OTQsODM2MTU5MjQzXX0=
 -->
